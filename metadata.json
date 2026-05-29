@@ -1,0 +1,6 @@
+{
+  "name": "EduScout",
+  "description": "A high-trust college discovery platform to search, browse, and compare institutions side-by-side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
